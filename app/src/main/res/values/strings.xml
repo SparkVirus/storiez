@@ -11,4 +11,10 @@ Phasellus fringilla, leo et suscipit venenatis, est orci aliquam arcu, id dignis
 
 Fusce nec luctus nunc, in vestibulum arcu. Nam non dictum ex, sit amet iaculis ipsum. Sed velit sapien, lobortis vitae leo a, convallis tincidunt diam. In hac habitasse platea dictumst. Nulla finibus tincidunt lacus, id molestie est porttitor vitae. Aliquam fringilla dui vel orci condimentum, ac lobortis arcu dapibus. Nullam sit amet urna velit. Donec blandit auctor ex, nec commodo nisl. Vivamus dignissim mi eu enim viverra efficitur. Aenean varius fringilla purus in elementum. Ut convallis nisi vitae leo posuere euismod. </string>
     <string name="title_activity_categories">Categories</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fables">FABLES</string>
+    <string name="legends">Legends</string>
+    <string name="epic">EPIC</string>
 </resources>
